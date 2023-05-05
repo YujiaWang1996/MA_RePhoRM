@@ -1,8 +1,11 @@
 # MA_RePhoRM
 
-Praktische Arbeit der Masterthesis von Frau Yujia Wang an TU Darmstadt
+Praktische Arbeit der Masterthesis von Yujia Wang an der TU Darmstadt
 
+Die Excel-Datei zeigt die Stoffstrommodelle und Betriebsszenarien des PHOS4green-Verfahrens, der Phosphorextraktion und der Schwermetallextraktion.
 
-The 4 ipynb files are python model for uncertainty analysis and senstivity analysis, created in JupyterNotebook. All the figures are directly available in the ipynb files.
+STAN-Dateien und Abbildungen im PNG-Format sind mit den zu visualisierenden Stoffströmen verbunden.
 
-The 2 txt files are generated uncertain dataset through Monte Carlo Method.
+Bei den 4 ipynb-Dateien handelt es sich um Python-Modelle für die Unsicherheitsanalyse und die Senstivitätsanalyse, die in JupyterNotebook erstellt wurden. Alle Abbildungen sind direkt in den ipynb-Dateien verfügbar.
+
+Die 2 txt-Dateien werden mit Hilfe der Monte-Carlo-Methode aus unsicheren Datensätzen erzeugt.
